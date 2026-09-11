@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" role="img" aria-labelledby="title">
+  <title id="title">Fulham FC monogram</title>
+  <path d="M8 8h104v93c0 22-19 35-52 43C27 136 8 123 8 101Z" fill="#fff" stroke="#111" stroke-width="8"/>
+  <path d="M30 28h60v13H45v19h35v13H45v42H30Z" fill="#111"/>
+  <path d="M56 48h14v67H56Zm23 0h14v67H79Z" fill="#e31b23"/>
+</svg>
